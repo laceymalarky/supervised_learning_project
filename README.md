@@ -1,4 +1,4 @@
-# data_science_projects
+# supervised learning project
 ## Introduction
 I have been hired by Beta Bank to predict whether a customer will leave the bank soon. They have been dealing with customers leaving the bank and have determined that it is cheaper to save existing customers rather than attract new ones. 
 
