@@ -3,7 +3,7 @@
 I have been hired by Beta Bank to predict whether a customer will leave the bank soon. They have been dealing with customers leaving the bank and have determined that it is cheaper to save existing customers rather than attract new ones. 
 
 Goals:
-- Build a model with the maximum possible F1 score (higher than 0.59).
+- Build a model with the maximum possible F1 score.
 - Calculate the AUC-ROC score and compare it with the F1 score.
 
 Data source:
