@@ -6,6 +6,9 @@ Goals:
 - Build a model with the maximum possible F1 score (higher than 0.59).
 - Calculate the AUC-ROC score and compare it with the F1 score.
 
+Data source:
+- `Churn.csv`
+
 Data description:
 - Features
     - `RowNumber` — data string index
